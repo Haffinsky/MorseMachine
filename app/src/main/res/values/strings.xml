@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MorseMachine</string>
+    <string name="hint">Enter your text here to translate it to morse</string>
 </resources>

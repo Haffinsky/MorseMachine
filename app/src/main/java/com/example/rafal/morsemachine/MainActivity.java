@@ -50,7 +50,6 @@ public class MainActivity extends AppCompatActivity {
         InputConventer inputConventer = new InputConventer();
         inputConventer.convertInput(input);
         editText.setText("");
-
             }
         }
 

@@ -12,6 +12,7 @@ import android.util.Log;
 public class InputConventer {
 
     public static final String LOG_TAG = InputConventer.class.getSimpleName();
+    //miliseconds of the lowest interval in morse code (one dot/dit)
     public static final int DIT = 0700;
     public static final int DAH = DIT * 3;
     public static final int PAUSE = DIT * 7;
